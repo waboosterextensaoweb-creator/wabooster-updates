@@ -7,6 +7,6 @@
     "Backup obrigatorio antes de atualizar.",
     "Antes de baixar e atualizar, assista ao video: https://youtu.be/geqnDewodXU"
   ],
-  "downloadUrl": "",
-  "releaseUrl": ""
+  "downloadUrl": "https://github.com/waboosterextensaoweb-creator/wabooster-updates/releases/download/v7.4.3.78/wabooster-crm-7.4.3.78.zip",
+  "releaseUrl": "https://github.com/waboosterextensaoweb-creator/wabooster-updates/releases/tag/v7.4.3.78"
 }
