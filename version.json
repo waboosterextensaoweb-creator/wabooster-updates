@@ -1,11 +1,11 @@
 {
-  "version": "7.4.3.100",
-  "publishedAt": "2026-06-23T17:02:49.829Z",
+  "version": "7.4.3.101",
+  "publishedAt": "2026-06-23T17:37:19.346Z",
   "mandatoryBackup": true,
   "notes": [
     "Pacote publicado automaticamente pela automacao local.",
     "Backup obrigatorio antes de atualizar."
   ],
-  "downloadUrl": "https://github.com/waboosterextensaoweb-creator/wabooster-updates/releases/download/v7.4.3.100/wabooster-crm-7.4.3.100.zip",
-  "releaseUrl": "https://github.com/waboosterextensaoweb-creator/wabooster-updates/releases/tag/v7.4.3.100"
+  "downloadUrl": "",
+  "releaseUrl": ""
 }
